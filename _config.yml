@@ -1,8 +1,6 @@
 title: Rain_Chat Wiki
 description: Тут собраны разные полезные инструкции!
 theme: just-the-docs
-plugins:
-  - jekyll-default-layout
   
 url: https://rainchat.github.io/just-the-wiki/
 
